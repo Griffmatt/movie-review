@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# Getting Started with Create React App
+# Movie Api
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Using an API and react created a search bar to search for a large quanitity of movies.
 
 ## Available Scripts
 
